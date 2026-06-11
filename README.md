@@ -79,7 +79,7 @@ Create promotional content showcasing the transformation from an empty lot into 
 
 ### Video Demo
 
-Coming Soon
+[Watch Video](https://youtube.com/shorts/AYC8hiqTA4k?feature=share)
 
 ---
 
