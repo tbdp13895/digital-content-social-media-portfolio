@@ -80,7 +80,7 @@ Create promotional content showcasing the transformation from an empty lot into 
 ### Video Demo
 
 🎥 Watch the YouTube Short:
-https://youtube.com/shorts/AYC8hiqTA4k?feature=share
+https://youtube.com/shorts/USsyBlpjN50?feature=share
 
 ---
 
@@ -113,7 +113,8 @@ Create short-form marketing content illustrating the construction and completion
 
 ### Video Demo
 
-Coming Soon
+🎥 Watch the YouTube Short:
+https://youtube.com/shorts/AYC8hiqTA4k?feature=share
 
 ---
 
