@@ -79,7 +79,8 @@ Create promotional content showcasing the transformation from an empty lot into 
 
 ### Video Demo
 
-[Watch Video](https://youtube.com/shorts/AYC8hiqTA4k?feature=share)
+🎥 Watch the YouTube Short:
+https://youtube.com/shorts/AYC8hiqTA4k?feature=share
 
 ---
 
