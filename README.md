@@ -52,7 +52,7 @@ Design a professional corporate profile to communicate company capabilities, man
 
 # Project 2: Steel House Transformation Video – Tropical Villa Concept
 
-![Steel House Tropical Villa](assets/steel-house-tropical.jpg)
+![Steel House Tropical Villa](assets/steel-house-tropical.png)
 
 ## Objective
 
@@ -85,7 +85,7 @@ Coming Soon
 
 # Project 3: Steel House Transformation Video – Urban Residential Concept
 
-![Steel House Urban Concept](assets/steel-house-urban.jpg)
+![Steel House Urban Concept](assets/steel-house-urban.jpeg)
 
 ## Objective
 
@@ -118,7 +118,7 @@ Coming Soon
 
 # Project 4: Steel House Construction Process Visualization
 
-![Steel House Construction Process](assets/steel-house-process.jpg)
+![Steel House Construction Process](assets/steel-house-process.jpeg)
 
 ## Objective
 
