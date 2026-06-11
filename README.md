@@ -23,7 +23,7 @@ This portfolio showcases projects focused on content creation, visual communicat
 
 # Project 1: Creator VN Corporate Profile & Brand Presentation
 
-![Creator VN Corporate Profile](assets/creator-vn-cover.jpg)
+![Creator VN Corporate Profile](assets/creator-vn-cover.png)
 
 ## Objective
 
