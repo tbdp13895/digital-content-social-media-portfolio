@@ -1,14 +1,14 @@
 # Digital Content & Social Media Portfolio
 
-## Overview
-
-This portfolio showcases content creation and marketing communication projects developed using Canva, CapCut, Adobe Premiere Pro, and AI-assisted workflows.
-
-The work focuses on transforming ideas into engaging visual content, business presentations, and promotional materials designed to communicate information clearly and effectively.
+Content creation, visual storytelling, video editing, and marketing communication projects developed using Canva, CapCut, Adobe Premiere Pro, and AI-assisted workflows.
 
 ---
 
-## Skills Demonstrated
+## Overview
+
+This portfolio showcases projects focused on content creation, visual communication, and marketing storytelling across business presentations and promotional video content.
+
+### Skills Demonstrated
 
 - Content Creation
 - Video Editing
@@ -23,9 +23,11 @@ The work focuses on transforming ideas into engaging visual content, business pr
 
 # Project 1: Creator VN Corporate Profile & Brand Presentation
 
+![Creator VN Corporate Profile](assets/creator-vn-cover.jpg)
+
 ## Objective
 
-Design a professional corporate profile to communicate company capabilities, services, manufacturing expertise, featured projects, and brand positioning.
+Design a professional corporate profile to communicate company capabilities, manufacturing expertise, featured projects, and brand positioning.
 
 ## Tools Used
 
@@ -36,24 +38,25 @@ Design a professional corporate profile to communicate company capabilities, ser
 
 - Business Communication
 - Content Development
-- Visual Storytelling
-- Information Organization
 - Presentation Design
+- Information Organization
 - Brand Communication
 
 ## Project Highlights
 
-- Developed a 15-page corporate profile presentation.
-- Organized company information into a structured and visually consistent format.
-- Presented manufacturing capabilities, featured projects, workflow processes, and brand messaging through professional visual communication.
+- Developed a professional corporate profile presentation for a furniture manufacturing company.
+- Organized company information into a clear and visually consistent format.
+- Presented company capabilities, production processes, featured projects, and business value propositions through visual storytelling.
 
 ---
 
 # Project 2: Steel House Transformation Video – Tropical Villa Concept
 
+![Steel House Tropical Villa](assets/steel-house-tropical.jpg)
+
 ## Objective
 
-Create promotional video content showcasing the transformation from an empty lot into a modern steel-frame residential property.
+Create promotional content showcasing the transformation from an empty lot into a modern steel-frame residential property in a tropical setting.
 
 ## Tools Used
 
@@ -68,9 +71,21 @@ Create promotional video content showcasing the transformation from an empty lot
 - Marketing Communications
 - Visual Storytelling
 
+## Project Highlights
+
+- Produced short-form promotional content highlighting modern steel-frame housing concepts.
+- Used AI-assisted workflows to generate visual assets and support content development.
+- Focused on showcasing finished design outcomes through transformation-based storytelling.
+
+### Video Demo
+
+Coming Soon
+
 ---
 
 # Project 3: Steel House Transformation Video – Urban Residential Concept
+
+![Steel House Urban Concept](assets/steel-house-urban.jpg)
 
 ## Objective
 
@@ -89,9 +104,21 @@ Create short-form marketing content illustrating the construction and completion
 - Audience Engagement
 - Visual Storytelling
 
+## Project Highlights
+
+- Developed promotional content targeted toward urban residential housing audiences.
+- Combined AI-generated visuals with editing workflows to create engaging marketing content.
+- Emphasized architectural design, functionality, and modern living spaces.
+
+### Video Demo
+
+Coming Soon
+
 ---
 
 # Project 4: Steel House Construction Process Visualization
+
+![Steel House Construction Process](assets/steel-house-process.jpg)
 
 ## Objective
 
@@ -109,6 +136,34 @@ Develop visual content that communicates the progression of steel-frame house co
 - Video Editing
 - Content Creation
 - Visual Storytelling
+
+## Project Highlights
+
+- Created content illustrating construction progress and steel-frame building concepts.
+- Focused on simplifying complex construction information through visual communication.
+- Supported marketing efforts by demonstrating construction workflows and project outcomes.
+
+### Video Demo
+
+Coming Soon
+
+---
+
+## Tools & Platforms
+
+### Design & Content Creation
+
+- Canva
+- CapCut
+- Adobe Premiere Pro
+- Generative AI Tools
+
+### Marketing & Analytics
+
+- Google Analytics 4 (GA4)
+- Excel
+- SQL
+- Power BI
 
 ---
 
