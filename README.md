@@ -147,7 +147,8 @@ Develop visual content that communicates the progression of steel-frame house co
 
 ### Video Demo
 
-Coming Soon
+🎥 Watch the YouTube Short:
+https://youtube.com/shorts/R061tjfJy8Y?feature=share
 
 ---
 
