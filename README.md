@@ -52,6 +52,8 @@ Design a professional corporate profile to communicate company capabilities, man
 
 # Project 2: Steel House Transformation Video – Tropical Villa Concept
 
+***Portfolio sample demonstrating content creation, video editing, and visual storytelling skills.***
+
 ![Steel House Tropical Villa](assets/steel-house-tropical.png)
 
 ## Objective
@@ -86,6 +88,8 @@ https://youtube.com/shorts/kNpmHxFLMfI?feature=share
 
 # Project 3: Steel House Transformation Video – Urban Residential Concept
 
+***Portfolio sample demonstrating content creation, video editing, and visual storytelling skills.***
+
 ![Steel House Urban Concept](assets/steel-house-urban.jpeg)
 
 ## Objective
@@ -119,6 +123,8 @@ https://youtube.com/shorts/AYC8hiqTA4k?feature=share
 ---
 
 # Project 4: Steel House Construction Process Visualization
+
+***Portfolio sample demonstrating content creation, video editing, and visual storytelling skills.***
 
 ![Steel House Construction Process](assets/steel-house-process.jpeg)
 
